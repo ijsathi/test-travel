@@ -1,0 +1,43 @@
+.con{
+    /* padding-left: 270px; */
+    margin: 30px;
+}
+.all-con{
+    display: flex;
+}
+.filed-con{
+    width: 100%;
+}
+.text-con{
+    width: 100%;
+}
+.sub-con{
+    text-align: center;
+    align-items: center; 
+}
+.sub{
+    width: 110px;
+    height: 50px;
+    background-color: #343a40;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.con-type{
+    text-align: center;
+    padding-top: 70px;
+}
+@media only screen and (max-width:640px) {
+    .con{
+        padding-left: 0px;
+    }
+    .all-con{
+        display: block;
+    }
+    .text-con{
+        width: 120%;
+    }
+    .filed-con{
+        width: 95%;
+    }
+}

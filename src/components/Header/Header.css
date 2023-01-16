@@ -1,0 +1,7 @@
+.header{
+    /* background: rgb(194, 189, 190) ;
+    background: -moz-linear-gradient(left, rgb(194, 189, 190) 0%, rgb(175, 171, 171) 100%);
+    background: -webkit-linear-gradient(left, rgb(194, 189, 190) 0%, rgb(179, 176, 176) 100%);
+    background: linear-gradient(to right, rgb(194, 189, 190) 0%, white 100%); */
+    background: linear-gradient(rgba(66, 65, 65, 0.7),white);
+}

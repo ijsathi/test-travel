@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "img": "https://d1hirb55zrpywb.cloudfront.net/macs-adventure-tours/routes/ECSGCVLG/routeimagegallery/1500sirmione-rsz-06012021145202222.jpg",
+      "price": 1750,
+      "name": "VERONA",
+      "desc": "Verona is a city in northern Italy’s Veneto region, with a medieval old town built between the meandering Adige River. It’s famous for being the setting of Shakespeare’s Romeo and Juliet.",
+      "time": "15 Days",
+      "people": 16
+    },
+    {
+      "id": 2,
+      "img": "https://www.thediaryofanomad.com/wp-content/w3-webp/uploads/2020/11/rome-for-3-days-in-rome-itinerary-vatican-dome-view.jpgw3.webp",
+      "price": 1990,
+      "name": "ROME",
+      "desc": "Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale.",
+      "time": "10 Days",
+      "people": 16
+    },
+    {
+      "id": 3,
+      "img": "https://i.dailymail.co.uk/1s/2020/10/03/08/33930626-0-image-a-1_1601709446541.jpg",
+      "price": 1390,
+      "name": "COMO",
+      "desc": "Como is a city at the southern tip of Lake Como in northern Italy. It's known for the Gothic Como, a scenic funicular railway and a waterfront promenade. The history of Como's silk industry.",
+      "time": "8 Days",
+      "people": 13
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.kimkim.com/files/a/images/91dce397d2cdd418d39555b49f7705a671e25674/big-aa47643d6751487ead395d70ff46352b.jpg",
+      "price": 1820,
+      "name": "ESSAOUIRA",
+      "desc": "Essaouira is a port city on Morocco’s Atlantic coast. Its medina (old town) is protected by 18th-century seafront ramparts called the Skala de la Kasbah, which were designed by European engineers.",
+      "time": "14 Days",
+      "people": 17
+    },
+    {
+      "id": 5,
+      "img": "https://a.cdn-hotels.com/gdcs/production109/d1280/8a00a6e3-e4e9-46ba-9a82-36154eaf29ea.jpg",
+      "name": "PHUKET",
+      "price": 1990,
+      "desc": "Phuket City, on Phuket Island, is the capital of Thailand’s Phuket Province. In the Old Town, Thalang Road is lined with colorful 19th-century shophouses and Sino-Portuguese buildings in Island.",
+      "time": "14 Days",
+      "people": 14
+    },
+    {
+      "id": 6,
+      "img": "https://www.viceroybali.com/wp-content/uploads/2020/08/viceroy-bali-main-pool-evening.jpg",
+      "name": "BALI",
+      "price": 1290,
+      "desc": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the Bali and a few smaller,notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan.",
+      "time": "10 Days",
+      "people": 13
+    }
+  ]

@@ -1,0 +1,40 @@
+.inform{
+    margin: 10px;
+    margin-top: 20px;
+    background-color: rgb(235, 236, 233);
+    padding: 20px;
+}
+.inform h2{
+    text-align: center;
+    padding: 20px;
+}
+.inform p{
+    margin: 20px;
+    padding-bottom: 20px;
+}
+.i-form{
+    text-align: center;
+}
+.i-input{
+    width: 50%;
+    margin-left: 25%;
+    font-weight: bold;
+}
+.i-add-input{
+    width: 50%;
+    margin-left: 25%;
+}
+@media only screen and (max-width:640px){
+    .inform{
+        margin: 0;
+        margin-top: 20px;
+    }
+    .i-input{
+        width: 100%;
+        margin-left: 0;
+    }
+    .i-add-input{
+        width: 100%;
+        margin-left: 0;
+    }
+}

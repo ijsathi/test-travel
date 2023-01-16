@@ -1,0 +1,41 @@
+body{
+    font-family: "Playfair Display SC",serif;
+}
+.blog img{
+    padding-top: -100px;
+    width: 25%;
+}
+.mar{
+    width: 200px;
+    height: 1px;
+    background: #000;
+    display: inline-block;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+.more{
+    font-size: 15px;
+    line-height: 2em;
+    font-weight: 400;
+}
+.more:hover{
+    cursor: pointer;
+    border-bottom: 2px solid #000;
+}
+
+/* img part */
+
+.feature-img{
+    width: 83%;
+    margin: auto;
+    position: relative;
+    border-radius: 6px;
+    overflow: hidden;
+}
+.play-btn{
+    width: 70px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.time{
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.time2{
+    padding: 20px;
+    background: linear-gradient(rgba(66, 65, 65, 0.7), #8ec3eb);
+    border-style: outset;
+    border: 15px solid linear-gradient(white,rgba(66, 65, 65, 0.7));
+    border-radius: 50%;
+}

@@ -1,0 +1,36 @@
+.about{
+    background-color: rgb(235, 236, 233);
+}
+.about-img img{
+    height: 450px;
+    width: 100%;
+    padding-top: 20px;
+}
+.ab{
+    background-image: url("https://wallpaperaccess.com/full/1881544.jpg");
+}
+.about-t{
+    padding-top: 70px;
+    padding-bottom: 50px;
+    font-size: 80px;
+    line-height: 15px;
+    font-weight: 400;
+    font-style: initial;
+    letter-spacing:-1px ;
+    text-align: center;
+    color: #616060;
+}
+@media only screen and (max-width:640px){
+    .about-t{
+        font-size: 40px;
+        line-height: 7px;
+        font-weight: 400;
+        font-style: initial;
+        letter-spacing:-1px ;
+        text-align: center;
+        color: #d4d4d4;
+    }
+    .about-img img{
+        display: none;
+    }
+}

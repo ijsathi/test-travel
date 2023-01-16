@@ -1,0 +1,57 @@
+.r{
+    padding-left: 10px;
+    padding-top: 90px;
+    font-family: "Playfair Display SC",serif;
+    color: #424141;
+    text-align: center;
+    background: #f7f5f5;
+}
+.d{
+    width: 200px;
+    height: 1px;
+    background: #000;
+    display: inline-block;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+.review{
+    display: flex;  
+}
+.review-part{
+    width: 100%;
+    text-align: center;
+    /* margin: 20px; */
+}
+.text1{
+    padding-top: 20px;
+}
+.imp{
+    font-size: 80px;
+    line-height: 15px;
+    font-weight: 400;
+    font-style: initial;
+    letter-spacing:-1px ;
+    text-align: center;
+    color: #d4d4d4;
+}
+@media only screen and (max-width:640px){
+    .imp{
+        font-size: 40px;
+        line-height: 7px;
+        font-weight: 400;
+        font-style: initial;
+        letter-spacing:-1px ;
+        text-align: center;
+        color: #d4d4d4;
+    }
+    .review{
+        display: block;  
+    }
+    
+}
+@media only screen and (min-width:640px){
+    .review-part{
+        width: 100%;
+        text-align: center;
+        margin: 20px;
+    }
+}
